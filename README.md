@@ -8,10 +8,10 @@
 
 | Файл | Описание |
 | - | - |
-| `bubble_sort.py` | Реализация сортировки пузырьком |
-| `insertion_sort.py` | Реализация сортировки вставками |
-| `quick_sort.py` | Реализация быстрой сортировки |
-| `selection_sort.py` | Реализация сортировки выбором |
+| [bubble_sort.py](bubble_sort.py) | Реализация сортировки пузырьком |
+| [insertion_sort.py](insertion_sort.py) | Реализация сортировки вставками |
+| [quick_sort.py](quick_sort.py) | Реализация быстрой сортировки |
+| [selection_sort.py](selection_sort.py) | Реализация сортировки выбором |
 
 ## Описание алгоритмов
 
